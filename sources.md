@@ -64,7 +64,6 @@ Sources for the real facts used on the site. The candidate, his opponent (Gov. J
 | New U.S.-Denmark-Greenland security agreement | European Parliamentary Research Service, [The new US-Denmark-Greenland agreement](https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2026)791543.html) |
 | U.S. pays 22% of the UN regular budget | Congressional Research Service, [The United States and United Nations Reform](https://www.congress.gov/crs-product/R49339); Council on Foreign Relations, [Funding the United Nations](https://www.cfr.org/articles/funding-united-nations-what-impact-do-us-contributions-have-un-agencies-and-programs) |
 | Trilateral U.S.-Russia-Ukraine peace talks planned | Al Jazeera, [Putin and Zelenskyy back three-way US peace talks](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy) |
-| NASA's $843 million SpaceX deorbit vehicle contract (June 26, 2024) to retire the ISS around 2030 | CNBC, [SpaceX wins NASA contract for ISS reentry](https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html) |
 | PACT Act signed August 10, 2022; expands VA care and benefits for veterans exposed to burn pits and toxic substances | U.S. Department of Veterans Affairs, [PACT Act](https://www.publichealth.va.gov/exposures/benefits/PACT_Act.asp) |
 
 ## Issue 7: Public Safety & the Second Amendment
@@ -81,6 +80,24 @@ Sources for the real facts used on the site. The candidate, his opponent (Gov. J
 |---|---|
 | Record-low general fertility rate of 53.2 in 2025; 3,612,012 births | CDC National Center for Health Statistics, [Data Brief No. 571](https://www.cdc.gov/nchs/data/databriefs/db571.pdf) |
 
+## Issue 9: American Frontier
+
+| Fact | Source |
+|---|---|
+| Naked mole rats survive about 18 minutes without oxygen by switching to fructose metabolism | Park et al., *Science* 356 (2017), [Fructose-driven glycolysis supports anoxia resistance in the naked mole-rat](https://www.science.org/doi/10.1126/science.aab3896) |
+| University of Rochester research on cancer resistance (high molecular weight hyaluronan); lifespan of 30+ years, the longest of any rodent | University of Rochester, [Why do naked mole rats live long, cancer-free lives?](https://www.rochester.edu/newscenter/naked-mole-rats-cancer-aging-longevity-295472/); Ruby et al., *eLife* (2018), [Naked mole-rat mortality rates defy Gompertzian laws](https://elifesciences.org/articles/31157) |
+| Mars atmosphere is about 95% carbon dioxide | NASA Science, [Mars Facts](https://science.nasa.gov/mars/facts/) |
+| Space radiation raises cancer risk on long missions | NASA Human Research Program, [Evidence Report: Risk of Radiation Carcinogenesis](https://humanresearchroadmap.nasa.gov/evidence/reports/Cancer.pdf) |
+| Laika orbited on Sputnik 2 (Nov. 3, 1957); Ham flew on Mercury-Redstone 2 (Jan. 31, 1961) | NASA, [A Brief History of Animals in Space](https://www.nasa.gov/history/a-brief-history-of-animals-in-space/); Smithsonian National Air and Space Museum, [Ham the Astrochimp](https://airandspace.si.edu/stories/editorial/mercury-primate-capsule-and-ham-astrochimp) |
+| NASA Rodent Research missions on the ISS | NASA, [Rodent Research-7](https://www.nasa.gov/ames/space-biosciences/rodent-research-7-spacex-15/) |
+| Efficient Earth-to-Mars launch windows about every 26 months | NASA Science, [Mars Mission Timeline](https://science.nasa.gov/planetary-science/programs/mars-exploration/mission-timeline/) |
+| Artemis II launched April 1, 2026, the first crewed lunar mission since 1972 | NASA, [Artemis II](https://www.nasa.gov/mission/artemis-ii/) |
+| Artemis III is a 2027 Earth-orbit test; Artemis IV is the first crewed landing (2028, lunar South Pole) | NASA, [NASA Marches Toward Artemis III Mission in 2027](https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/); NASA, [Artemis IV](https://www.nasa.gov/mission/artemis-iv/) |
+| Starship reached orbit for the first time on September 28, 2026 | Space.com, [SpaceX launches Starship into orbit for 1st time](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success); SpacePolicyOnline, [Starship Achieves Orbit](https://spacepolicyonline.com/news/starship-achieves-orbit-for-the-first-time/) |
+| North American Amish population of 421,200 (June 2026), up 32% since 2017; nearly 60% in Ohio, Pennsylvania, and Indiana | Young Center for Anabaptist and Pietist Studies, Elizabethtown College, [Amish Population Profile 2026](https://groups.etown.edu/amishstudies/amish-population-profile-2026/) |
+| Barn raisings: hundreds of people erect a barn in a single day | Young Center, Elizabethtown College, [Mutual Aid](https://groups.etown.edu/amishstudies/cultural-practices/mutual-aid/) |
+| NASA's $843 million SpaceX deorbit vehicle contract (June 26, 2024) to retire the ISS around 2030 | CNBC, [SpaceX wins NASA contract for ISS reentry](https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html) |
+
 ## News Page
 
 | Fact | Source |
@@ -90,6 +107,9 @@ Sources for the real facts used on the site. The candidate, his opponent (Gov. J
 | Iran conflict began in late February 2026; about $2,000 cost per household (Moody's) | CNN, [The Iran war is costing American households $2,000 each](https://www.cnn.com/2026/10/13/economy/iran-war-oil-gas-prices-inflation) |
 | 43-day shutdown, October 1 to November 12, 2025; SNAP disrupted for 42 million people | NPR, [Longest government shutdown in U.S. history ends after 43 days](https://www.npr.org/2025/11/13/nx-s1-5606921/longest-government-shutdown-in-u-s-history-ends-after-43-days); Congressional Research Service, [Past Government Shutdowns](https://www.congress.gov/crs-product/R41759) |
 | USDA declined to use its contingency fund; states including Pennsylvania ($5M), New Mexico ($30M), and California ($80M) funded food banks | NBC News, [States move to bridge the SNAP gap](https://www.nbcnews.com/politics/politics-news/millions-americans-prepare-lose-snap-benefits-states-are-moving-bridge-rcna239159); Office of the Governor of Pennsylvania, [Gov. Shapiro takes action on SNAP](https://www.pa.gov/governor/newsroom/2025-press-releases/gov-shapiro-takes-action-to-support-pennsylvanians-on-snap) |
+
+| Hillary Clinton's "basket of deplorables" remark (Sept. 9, 2016) and supporters' "Deplorable" merchandise | CBS News, [Hillary Clinton: Half of Donald Trump supporters in "basket of deplorables"](https://www.cbsnews.com/amp/news/hillary-clinton-half-donald-trump-supporters-basket-of-deplorables/); Atlanta Journal-Constitution, [Some Trump supporters embrace "Deplorables" label](https://www.ajc.com/news/national/some-trump-supporters-embrace-deplorables-label/9L28Fx2dxh72lEfqAn5OlO/) |
+| Corporations may give unlimited amounts to independent-expenditure-only committees (super PACs) after *Citizens United* and *SpeechNow* (2010), but may not contribute directly to candidates | Federal Election Commission, [Advisory Opinion 2010-11](https://www.fec.gov/updates/ao-2010-11-contributions-to-an-independent-expenditure-committee/) |
 
 ## Donate Page
 
