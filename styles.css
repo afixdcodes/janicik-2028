@@ -537,3 +537,6 @@ section { padding-block: 70px; }
   letter-spacing: 0.05em;
 }
 .disclaimer { margin-top: 14px; font-size: 0.8rem; opacity: 0.75; }
+
+/* Footer star: unmarked link to the parody edition */
+.site-footer a.egg { color: inherit; text-decoration: none; cursor: default; }

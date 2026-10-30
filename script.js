@@ -28,7 +28,7 @@
   var footer =
     '<footer class="site-footer"><div class="wrap">' +
       '<div class="footer-grid">' +
-        '<div><div class="logo"><span class="name">&#9733; JANICIK</span><span class="year">PRESIDENT 2028</span></div>' +
+        '<div><div class="logo"><span class="name"><a href="parody/" class="egg">&#9733;</a> JANICIK</span><span class="year">PRESIDENT 2028</span></div>' +
           '<p style="margin-top:14px">Built for America. Army veteran, business owner, and two-term Governor of Ohio.</p></div>' +
         '<div><h4>Campaign</h4><ul>' +
           '<li><a href="biography.html">Meet Graham</a></li><li><a href="issues.html">Issues</a></li>' +
