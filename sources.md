@@ -116,3 +116,10 @@ Sources for the real facts used on the site. The candidate, his opponent (Gov. J
 | Fact | Source |
 |---|---|
 | Individual contribution limit of $3,500 per election for 2025-2026 | Federal Election Commission, [Contribution limits for candidates](https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits-candidates); Wiley, [FEC raises limits for 2025-2026](https://www.wiley.law/alert-FEC-Raises-Individual-Federal-Contribution-Limits-for-2025-2026-Election-Cycle) |
+
+## Images
+
+| Item | Source |
+|---|---|
+| Candidate photo: an AI-generated face of a person who does not exist | [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) (StyleGAN-generated image) |
+
