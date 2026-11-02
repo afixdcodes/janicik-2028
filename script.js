@@ -15,7 +15,7 @@
   }).join("");
 
   var header =
-    '<div class="topbar">Our October 31 fundraising deadline is almost here. <a href="donate.html">Chip in for Graham &rarr;</a></div>' +
+    '<div class="topbar">Our November 30 fundraising deadline is almost here. <a href="donate.html">Chip in for Graham &rarr;</a></div>' +
     '<header class="site-header"><div class="wrap nav">' +
       '<a class="logo" href="index.html"><span class="name">&#9733; JANICIK</span><span class="year">PRESIDENT 2028</span></a>' +
       '<input type="checkbox" id="menu-toggle" class="menu-toggle">' +
