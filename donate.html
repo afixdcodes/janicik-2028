@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Donate | Janicik 2028</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <section class="bg-cream">
+      <div class="wrap donate-wrap">
+        <div>
+          <div class="kicker">End-of-Month Deadline</div>
+          <h1 style="font-size:clamp(2.2rem,5vw,3.6rem)">Stand with Graham. Chip in $25.</h1>
+          <p style="font-size:1.15rem">Chicken Joe has Hollywood, Wall Street and the national media behind him. Graham has <strong>you</strong>. Every dollar you give before our November 30 deadline helps us get Graham's message on TV in Pennsylvania, Michigan, Wisconsin and Arizona, open campaign offices in every swing state and build the team that will win in 2028.</p>
+          <p>Graham built his business one customer at a time and won Ohio one county at a time. This campaign is being built the same way, by working families giving what they can.</p>
+
+          <div style="margin-top:28px">
+            <strong style="font-family:var(--head);letter-spacing:.06em;text-transform:uppercase">November Goal: $2,028,000</strong>
+            <div class="progress"><span style="width:78%"></span></div>
+            <span class="legal">$1,581,840 raised from 61,224 grassroots donors &middot; Average gift: $25.84</span>
+          </div>
+
+          <div class="card" style="margin-top:30px">
+            <h3>Other ways to give</h3>
+            <p><strong>By mail:</strong> Make checks payable to "Janicik for America" and mail to PO Box 1776, Youngstown, OH 44501. Please include your name, address, occupation, and employer.</p>
+            <p><strong>By text:</strong> Text GRAHAM to 22028 to give $25. Msg &amp; data rates may apply.</p>
+            <p style="margin:0"><strong>Monthly:</strong> Join the <em>Founders Club</em>, our monthly donor program. Members get an exclusive Founders Club lapel pin and a quarterly call with Graham.</p>
+          </div>
+        </div>
+
+        <form class="donate-box" data-fake>
+          <h2 style="font-size:1.8rem;margin:0">Select an amount</h2>
+          <div class="amounts" id="amounts">
+            <button type="button" data-amt="25" class="selected">$25</button>
+            <button type="button" data-amt="50">$50</button>
+            <button type="button" data-amt="100">$100</button>
+            <button type="button" data-amt="250">$250</button>
+            <button type="button" data-amt="1000">$1,000</button>
+            <button type="button" data-amt="3500">$3,500</button>
+          </div>
+          <div class="field">
+            <label for="other">Other amount ($)</label>
+            <input id="other" type="number" min="1" max="3500" placeholder="Enter amount">
+          </div>
+          <label class="check"><input type="checkbox"> Make this a monthly recurring donation and join the Founders Club</label>
+
+          <h3 style="margin-top:20px">Your information</h3>
+          <div class="row-2">
+            <div class="field"><label>First name</label><input required></div>
+            <div class="field"><label>Last name</label><input required></div>
+          </div>
+          <div class="field"><label>Email</label><input type="email" required></div>
+          <div class="field"><label>Street address</label><input required></div>
+          <div class="row-2">
+            <div class="field"><label>City</label><input required></div>
+            <div class="field"><label>ZIP</label><input inputmode="numeric" maxlength="5" required></div>
+          </div>
+          <div class="row-2">
+            <div class="field"><label>Occupation</label><input required></div>
+            <div class="field"><label>Employer</label><input required></div>
+          </div>
+          <div class="field"><label>Card number</label><input placeholder="Disabled for class project" disabled></div>
+
+          <label class="check"><input type="checkbox" required> I confirm the statements below are true.</label>
+          <button class="btn btn-red" type="submit" style="width:100%" id="give-btn">Donate $25</button>
+          <p class="thanks" hidden>Thank you for standing with Graham! This is a class project, so no payment was taken.</p>
+
+          <p class="legal" style="margin-top:16px">By donating, I confirm that: I am a U.S. citizen or lawfully admitted permanent resident; this contribution is made from my own funds and not those of another person; I am not a federal contractor; and I am at least 18 years old. Contributions to Janicik for America are not tax-deductible for federal income tax purposes. Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and name of employer of individuals whose contributions exceed $200 in an election cycle. The maximum an individual may contribute is $3,500 per election. Contributions from corporations, labor unions, and foreign nationals are prohibited.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="script.js"></script>
+  <script>
+    (function () {
+      var btn = document.getElementById("give-btn");
+      var other = document.getElementById("other");
+      var buttons = document.querySelectorAll("#amounts button");
+      function setAmt(n) { btn.textContent = "Donate $" + Number(n).toLocaleString(); }
+      buttons.forEach(function (b) {
+        b.addEventListener("click", function () {
+          buttons.forEach(function (x) { x.classList.remove("selected"); });
+          b.classList.add("selected");
+          other.value = "";
+          setAmt(b.dataset.amt);
+        });
+      });
+      other.addEventListener("input", function () {
+        buttons.forEach(function (x) { x.classList.remove("selected"); });
+        if (other.value) setAmt(other.value);
+      });
+    })();
+  </script>
+</body>
+</html>
