@@ -15,7 +15,7 @@
   }).join("");
 
   var header =
-    '<div class="topbar">Almost time to reach our October 30th goal! <a href="donate.html">Help Graham out &rarr;</a></div>' +
+    '<div class="topbar">Time's almost up to meet our fundraising target by November 30th. <a href="donate.html">Give to Graham!</a></div>' +
     '<header class="site-header"><div class="wrap nav">' +
       '<a class="logo" href="index.html"><span class="name">&#9733; JANICIK</span><span class="year">PRESIDENT 2028</span></a>' +
       '<input type="checkbox" id="menu-toggle" class="menu-toggle">' +
@@ -29,10 +29,10 @@
     '<footer class="site-footer"><div class="wrap">' +
       '<div class="footer-grid">' +
         '<div><div class="logo"><span class="name"><a href="parody/" class="egg">&#9733;</a> JANICIK</span><span class="year">PRESIDENT 2028</span></div>' +
-          '<p style="margin-top:14px">A campaign built for America. Army Veteran. Businessman. Two-term Governor of Ohio.</p></div>' +
+          '<p style="margin-top:14px">Built for America. Army Veteran, Business Owner and 2 term Governor of Ohio.</p></div>' +
         '<div><h4>Campaign</h4><ul>' +
           '<li><a href="biography.html">Meet Graham</a></li><li><a href="issues.html">Issues</a></li>' +
-          '<li><a href="events.html">Events</a></li><li><a href="news.html">Press</a></li></ul></div>' +
+          '<li><a href="events.html">Events</a></li><li><a href="news.html">News</a></li></ul></div>' +
         '<div><h4>Get Involved</h4><ul>' +
           '<li><a href="donate.html">Donate</a></li><li><a href="merchandise.html">Shop</a></li>' +
           '<li><a href="index.html#signup">Volunteer</a></li><li><a href="ads.html">View our Ads</a></li></ul></div>' +
@@ -40,8 +40,8 @@
           '<li>Janicik for America HQ</li><li>1776 Liberty Ave, Youngstown, OH</li>' +
           '<li>press@janicik2028.example</li></ul></div>' +
       "</div>" +
-      '<div class="paid-for">Paid for by Janicik for America, Inc. Not authorized by any real candidate or committee.</div>' +
-      '<p class="disclaimer">This website is fictional and part of a school project. Graham L. Janicik is not a real person. The picture is an AI generated image of a non-existent person. No money is raised from any part of this site.</p>' +
+      '<div class="paid-for">Paid for by Janicik for America, Inc. Not authorised by any real candidate or committee.</div>' +
+      '<p class="disclaimer">This is a fictional campaigning website created for a school project. Graham L. Janicik is not a real person. The photograph is an AI generated image of a non-existent person. No money will be raised from this site.</p>' +
     "</div></footer>";
 
   document.getElementById("site-header").outerHTML = header;

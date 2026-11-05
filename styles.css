@@ -561,3 +561,7 @@ section { padding-block: 70px; }
 
 /* Footer star: unmarked link to the parody edition */
 .site-footer a.egg { color: inherit; text-decoration: none; cursor: default; }
+
+/* Avatars that show the candidate photo hide their initials; colored ones keep them */
+.avatar { color: transparent; }
+.avatar[style] { color: var(--white); }
